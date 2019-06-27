@@ -4,9 +4,9 @@ A repo which contains best practices for OOPs
 Here I am trying to convert some procedural codes to Object Oriented way.
 
 I am trying to incorporate the following rules in my style of programming:
-Rule 1: Abandon static method (Singleton pattern)
+Rule 1: Abandon static method (Singleton pattern).
 Static method gives only memory advantage, but it can be achieved using cache, lazy loading, object pooling, etc.
-Unit testing becomes tough using static method
+Unit testing becomes tough using static method.
 Rule 2: LSP (Listkov Substitution Principle)=> Inheritance fails LSP, aggregation is alternative
 Rule 3: Type check is sinful (anti-abstraction) Idea is to treat everything equal
 Rule 4: ISP – Interface Segregation Principle
