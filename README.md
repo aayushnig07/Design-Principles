@@ -37,4 +37,3 @@ Rule 28: Do not use default methods.
 Rule 29: Do not use Optional
 Rule 30: Do not use inner classes (Can use private class)
 Rule 31: Avoid using Booleans, instead throw an exception.
-
